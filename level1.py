@@ -14,3 +14,6 @@ url = "map"
 print msg.translate(table)
 
 print url.translate(table)
+
+print "Testing aceedit"
+
